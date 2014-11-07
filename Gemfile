@@ -16,6 +16,7 @@ gem 'coffee-rails', '~> 4.0.0'
 
 # To use bower for controlling front-end libraries
 gem 'bower-rails'
+gem 'angular-rails-templates'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
